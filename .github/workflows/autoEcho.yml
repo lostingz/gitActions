@@ -2,7 +2,7 @@ name: echoTask
 
 on:
   schedule:
-    - cron: '0/3 * * * * ?'
+    - cron: '38 11 * * *'
 
 jobs:
   build:
